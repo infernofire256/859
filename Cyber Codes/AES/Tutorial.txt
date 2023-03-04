@@ -1,0 +1,9 @@
+Hello and Welcome to the PREP generator. Prep stands for Psuedo Random Encryption Password. It's purpose is to create random passwords that are secure enough to be used in encryption (e.g., AES), or as encryption equivalent security in non-encryption settings (e.g., online passwords). 
+
+Below are the instructions to create a secure password using the PREP generator.
+
+When you first start the generator, you will be asked a few questions. The first question is "How many passwords do you want to create?" and you can input the number of passwords you want to use (even if it's just one).
+
+The second question is "How long do you want your password(s)?" and you can input the length of your passwords (all passwords will be the same length).
+
+Finally, the last question is "What Dataset would you like to use?" This question is a little trickier to answer because there are many 
